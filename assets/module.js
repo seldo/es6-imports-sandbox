@@ -1,5 +1,5 @@
 import {helperMethod} from './helper.js';
-import subModule from './submodule.js'
+import subModule from './submodule/submodule.js'
 
 let extra = () => {
   console.log("I'm extra!")
